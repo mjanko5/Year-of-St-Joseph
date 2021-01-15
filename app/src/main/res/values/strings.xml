@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">Year of St. Joseph</string>
+    <string name="edit_message">Enter passcode</string>
+    <string name="button_send">Submit</string>
+
+    <string-array name="devotions">
+        <item>Prayer</item>
+        <item>Indulgences</item>
+        <item>Litany</item>
+        <item>Novena</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Prayer for Saint Joseph\'s intercession before God</item>
+        <item>Indulgences for the year of Saint Joseph</item>
+        <item>Litany to St. Joseph</item>
+        <item>9 Day Novena to St. Joseph</item>
+    </string-array>
+
+
+    <string-array name="content">
+        <item>
+            To you, O blessed Joseph,
+            \ndo we come in our tribulation,
+            \nand having implored the help of your most holy Spouse,
+            \nwe confidently invoke your patronage also.
+            \nThrough that charity which bound you
+            \nto the Immaculate Virgin Mother of God
+            \nand through the paternal love
+            \nwith which you embraced the Child Jesus,
+            \nwe humbly beg you graciously to regard the inheritance
+            \nwhich Jesus Christ has purchased by his Blood,
+            \nand with your power and strength to aid us in our necessities.
+
+            \n\nO most watchful guardian of the Holy Family,
+            \ndefend the chosen children of Jesus Christ;
+            \nO most loving father, ward off from us
+            \nevery contagion of error and corrupting influence;
+            \nO our most mighty protector, be kind to us
+            \nand from heaven assist us in our struggle
+            \nwith the power of darkness.
+            \nAs once you rescued the Child Jesus from deadly peril,
+            \nso now protect God\'s Holy Church
+            \nfrom the snares of the enemy and from all adversity;
+            \nshield, too, each one of us by your constant protection,
+            \nso that, supported by your example and your aid,
+            \nwe may be able to live piously, to die in holiness,
+            \nand to obtain eternal happiness in heaven.
+            \nAmen.
+        </item>
+
+
+        <item>
+            A plenary indulgence is granted under the usual conditions (sacramental confession,
+            Eucharistic Communion, and prayer for the intentions of the Holy Father)
+            to the faithful who, with a spirit detached from any sin, participate in the Year of
+            Saint Joseph on the following occasions and manners:
+
+            \n\n•	Meditate for at least 30 minutes on the Lord\'s Prayer
+            \n\n•	Participate in a spiritual retreat of at least one day that includes a meditation on Saint Joseph
+            \n\n•	Following the example of Saint Joseph, perform a corporal or spiritual work of mercy
+            \n\n•	Pray the Rosary together with one’s family (or as an engaged couple) in order that
+                “all Christian families may be stimulated to recreate the same atmosphere of
+                intimate communion, love and prayer that was in the Holy Family.”
+            \n\n•	Entrust one’s work daily to the protection of Saint Joseph
+            \n\n•	Pray for St. Joseph’s intercession for the unemployed that they might find dignifying work
+
+            \n\n•	Recite any of the following for persecuted Christians:
+                \n\t\t\t⁃ Litany of St. Joseph
+                \n\t\t\t⁃ Akathistos to St. Joseph
+                \n\t\t\t\t (in the Byzantine tradition)
+                \n\t\t\t⁃ Another liturgical prayer to St. Joseph
+            \n\n•	Pray an approved prayer or perform an act of piety in honor of St. Joseph on the following occasions:
+                \n\t\t\t⁃ Sunday after Christmas
+                \n\t\t\t⁃ Feast of St. Joseph on March 19
+                \n\t\t\t⁃ 19th of any month
+                \n\t\t\t⁃ Wednesdays
+                \n\t\t\t\t (the day traditionally dedicated to St. Joseph)
+                \n\t\t\t⁃ Feast of St. Joseph the Worker on May 1
+        </item>
+
+
+
+
+        <item>
+            \ Lord, have mercy on us.\n
+            Christ, have mercy on us.\n
+            Lord, have mercy on us.\n
+            Jesus, hear us,	Jesus, graciously hear us.\n
+            \n
+            God the Father of heaven, have mercy on us.\n
+            God the Son, Redeemer of the World.\n
+            God the Holy Spirit.\n
+            Holy Trinity, one God.\n
+            \n
+            Holy Mary,  pray for us.\n
+            St. Joseph, pray for us.\n
+            Renowned offspring of David,\n
+            Light of Patriarchs,\n
+            Spouse of the Mother of God,\n
+            Chaste guardian of the Virgin,\n
+            Foster father of the Son of God,\n
+            Diligent protector of Christ,\n
+            \n
+            Head of the Holy Family, 	pray for us.\n
+            Joseph most just,	\n
+            Joseph most chaste,	\n
+            Joseph most prudent, \n
+            Joseph most strong,	\n
+            Joseph most obedient,	\n
+            Joseph most faithful,	\n
+            Mirror of patience,	\n
+            \n
+            Lover of poverty, 	pray for us.\n
+            Model of artisans,	\n
+            Glory of home life,	\n
+            Guardian of virgins,	\n
+            Pillar of families,	\n
+            Solace of the wretched,	\n
+            Hope of the sick,	\n
+            Patron of the dying,	\n
+            Terror of demons,	\n
+            Protector of Holy Church,	\n
+            \n
+            Lamb of God, \n who takes away the sins of the world,\n	spare us, O Jesus.\n
+            \n
+            Lamb of God, \n who takes away the sins of the world,\n	graciously hear us, O Jesus.\n
+            \n
+            Lamb of God, \n who takes away the sins of the world,\n have mercy on us, O Jesus.\n
+            \n
+            He made him the lord of his household \n And prince over all his possessions.\n
+            \n
+            Let us pray:\n
+            \nO God, in your ineffable providence you were pleased to choose Blessed Joseph
+            to be the spouse of your most holy Mother; grant, we beg you,
+            that we may be worthy to have him for our intercessor in heaven whom on earth
+            we venerate as our Protector. You who live and reign forever and ever.\n
+            \n
+            Saint Joseph, pray for us!</item>
+
+        <item>Soon to arrive</item>
+    </string-array>
+
+
+
+</resources>
