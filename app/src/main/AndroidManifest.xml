@@ -9,20 +9,24 @@
         android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Activity2"
-            android:parentActivityName=".MainActivity"
+        <activity android:name=".CreateReminder"></activity>
+        <activity
+            android:name=".Reminder"
+            android:parentActivityName=".Main" /> <!-- I added this -->
+        <activity
+            android:name=".Activity2"
             android:label="Secondary Screen"
-            />
+            android:parentActivityName=".Main" />
         <activity
             android:name=".DisplayMessageActivity"
-            android:parentActivityName=".MainActivity">
+            android:parentActivityName=".Main">
 
             <!-- The meta-data tag is required if you support API level 15 and lower -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value=".Main" />
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".Main">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

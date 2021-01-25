@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Year of St. Joseph</string>
     <string name="edit_message">Enter passcode</string>
+    <string name="reminder_hint">Reminder</string>
     <string name="button_send">Submit</string>
 
     <string-array name="devotions">
@@ -80,8 +81,6 @@
         </item>
 
 
-
-
         <item>
             \ Lord, have mercy on us.\n
             Christ, have mercy on us.\n
@@ -140,7 +139,6 @@
 
         <item>Soon to arrive</item>
     </string-array>
-
 
 
 </resources>

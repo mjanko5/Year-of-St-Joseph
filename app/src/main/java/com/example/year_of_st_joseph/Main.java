@@ -10,7 +10,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 
-public class MainActivity extends AppCompatActivity {
+public class Main extends AppCompatActivity {
 
     RecyclerView recyclerView;
 
@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.main);
 
         recyclerView = findViewById(R.id.recyclerView);
 
@@ -31,11 +31,9 @@ public class MainActivity extends AppCompatActivity {
         descriptions = getResources().getStringArray(R.array.descriptions);
         content = getResources().getStringArray(R.array.content);
 
-
         RecyclerViewAdapter rva = new RecyclerViewAdapter(this, devotions, descriptions, content, pictures);
         recyclerView.setAdapter(rva);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
-
     }
 
     //Called when send button clicked
@@ -45,8 +43,13 @@ public class MainActivity extends AppCompatActivity {
         String message = editText.getText().toString();
         intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
-
     }
 
+
+    //Called when reminders button clicked
+    public void goToReminders(View view) {
+        Intent intent = new Intent(this, Reminder.class);
+        startActivity(intent);
+    }
 
 }
